@@ -183,6 +183,7 @@ h1 {
   overflow: hidden;
   text-overflow: ellipsis;  */
 }
+
 .search-results-item-urlToImage {
     /* make image corners round */
     height: 175px;
